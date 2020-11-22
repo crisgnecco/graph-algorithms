@@ -5,8 +5,6 @@ Este repositorio contiene algoritmos de grafos implementados por mi.
 
 -Prim
 
--Kruzkal
-
 -Warshall
 
 -Graph coloring
